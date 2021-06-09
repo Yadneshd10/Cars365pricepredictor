@@ -1,0 +1,26 @@
+body {
+    background-color: #fff4f4;
+    font-family: Arial, Helvetica,sans-serif;
+    text-align: center; 
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+}
+
+.contact-icon{
+	color: #ffffff;
+	padding: 7px;
+}
+
+.contact-icon:hover{
+	color: #8c8c8c;
+}
